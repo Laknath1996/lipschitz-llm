@@ -1,2 +1,3 @@
-llama/
-llama.cpp/
+llama
+llama.cpp
+build

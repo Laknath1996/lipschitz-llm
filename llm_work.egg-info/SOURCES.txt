@@ -1,0 +1,7 @@
+setup.py
+llm_work/__init__.py
+llm_work/functions.py
+llm_work.egg-info/PKG-INFO
+llm_work.egg-info/SOURCES.txt
+llm_work.egg-info/dependency_links.txt
+llm_work.egg-info/top_level.txt
